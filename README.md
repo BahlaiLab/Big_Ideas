@@ -3,9 +3,9 @@ Really just a listing of ongoing and proposed projects
 
 | Project       |Description         | Collaborators | Status|
 |:-------------:|-------------| -----| -----|
-|Ecotourism as an engine for ecological discovery    | . | . |. |
-|Aphid suction trap network     | . | . |. |
-|Sapsuckrz     | An examination of environmental and landscape drivers of abundance of common aphid species| RQM students! |Analysis and writeup underway|
+|Ecotourism as an engine for ecological discovery    | Can we use ecosystem observations collected by ecotourist citizen scientists to generate data and hypotheses about critical ecosystems? | Stephanie Smith-Unna, Fathom Beyond |Seeking Funding!! |
+|Aphid suction trap network     | A surveilance network for aphids of the midwestern USA | Doris Lagos-Kutz, USDA-ARS and University of Illinois at U-C | Seeking funding!!|
+|[Sapsuckrz](https://github.com/ReproducibleQM/sapsuckRz)     | An examination of environmental and landscape drivers of abundance of common aphid species| RQM students! |Analysis and writeup underway|
 |Biodiversity in Cuyhoga Valley NP     | Observing above-ground processes in restored mine sites| Chris Blackwood, Anne Jefferson, Kent State University | Awaiting a champion (and a lab technician)! |
 |Microclimate and scale      | Following BioSCAN:  what scale of measurement matters in understanding microclimate drivers of biodiversity? | Terry McGlynn, Cal State Dominguez Hills |Awaiting a champion |
 |BioSCAN     | An examination of biodiversity in Los Angeles backyards | Terry McGlynn, Cal State Dominguez Hills | Data munging and analysis ongoing |
