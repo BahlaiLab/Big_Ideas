@@ -5,10 +5,10 @@ Really just a listing of ongoing and proposed projects
 |:-------------:|-------------| -----| -----|
 |Ecotourism as an engine for ecological discovery    | . | . |. |
 |Aphid suction trap network     | . | . |. |
-|Sapsuckrz     | . | . |. |
-|Biodiversity in Cuyhoga Valley NP     | . | . |. |
-|Microclimate and scale      | . | . |. |
-|BioSCAN     | An examination of biodiversity in Los Angeles backyards | Lead: Terry McGlynn, Cal State Dominguez Hills | Data munging and analysis ongoing |
+|Sapsuckrz     | An examination of environmental and landscape drivers of abundance of common aphid species| RQM students! |Analysis and writeup underway|
+|Biodiversity in Cuyhoga Valley NP     | Observing above-ground processes in restored mine sites| Chris Blackwood, Anne Jefferson, Kent State University | Awaiting a champion (and a lab technician)! |
+|Microclimate and scale      | Following BioSCAN:  what scale of measurement matters in understanding microclimate drivers of biodiversity? | Terry McGlynn, Cal State Dominguez Hills |Awaiting a champion |
+|BioSCAN     | An examination of biodiversity in Los Angeles backyards | Terry McGlynn, Cal State Dominguez Hills | Data munging and analysis ongoing |
 |Penguegg      | What are the environmental drivers on Northern Rockhoper Penguin egg size? | Alex Bond, Royal Society for the Preservation of Birds | Analysis and writeup underway |
 |[Timberdoodle](https://github.com/zipkinlab/timberdoodle)   | An integrated population model for American Woodcock| The Zipkin Lab, led by Sarah Saunders, Michigan State University |In development|
 |Phenology, climate change and invasions     | Will climate change exacerbate the impacts of invaders on communities of functionally similar native species? | Doug Landis, Michigan State University | Awaiting a champion |
