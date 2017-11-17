@@ -3,7 +3,7 @@ Really just a listing of ongoing and proposed projects
 
 | Project       |Description         | Collaborators | Status|
 |:-------------:|-------------| -----| -----|
-| Functional responses in invertebrate predators of vertibrates       |Examine factors affecting predator functional response in a co-evolved tropical aphibian-calliphorid fly system      | Nancy Karraker, University of RI| Brainstorming underway for grant submission to NSF DEB in late 2018|
+| Functional responses in invertebrate predators of vertebrates       |Examine factors affecting predator functional response in a co-evolved tropical aphibian-calliphorid fly system      | Nancy Karraker, University of RI| Brainstorming underway for grant submission to NSF DEB in late 2018|
 |Ecotourism as an engine for ecological discovery    | Can we use ecosystem observations collected by ecotourist citizen scientists to generate data and hypotheses about critical ecosystems? | Stephanie Smith-Unna, Fathom Beyond |Seeking appropriate funding sources, student champion |
 |Aphid suction trap network     | From microbiome to macroclimate- scaling multiple drivers of distribution and abundance of aphid populations in central North America.  | Doris Lagos-Kutz, USDA-ARS and University of Illinois at U-C and Jennifer A White, University of Kentucky| Grant submitted to NSF-MSB-ECR, pending decision ~04/18|
 |[Sapsuckrz](https://github.com/ReproducibleQM/sapsuckRz)     | An examination of environmental and landscape drivers of abundance of common aphid species| RQM students! |Analysis and writeup underway, Hackathon Dec 9 2017|
